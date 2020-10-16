@@ -106,9 +106,14 @@ Storymapping and product management is a whole set of subjects unto themselves. 
 
 ## Understanding a Map (30m, solo)
 
+
+{% alert info Writing to Think %}
+Throughout the course, we will be reflecting on prior experiences, the things we read, and so on. A good way to slow down our overloaded brains is to <i>write</i>. Therefore, we will often take a moment to do some reflection as writing. For many reasons, we'd like to recommend you use a physical notebook. When you're writing, do your best to find a quiet place to work, free of distractions: silence the phone, turn off the social media... just unplug.
+{% endalert %}
+
 You've seen roadmaps as parts of projects before.
 
-Pull one. Go back to a recent roadmap from one of your projects, and look at it. Then, answer these questions for yourself in your notebook. These questions are less reflective and more descriptive in nature; they mostly question the *what* and *how* of the map.
+Pull one from your archive. Go back to a recent roadmap from one of your projects, and look at it. Then, answer these questions for yourself in your notebook. These questions are less reflective and more descriptive in nature; they mostly question the *what* and *how* of the map.
 
 1. What is the vision for the product or software?
 2. What value does it offer?
