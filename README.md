@@ -1,8 +1,4 @@
----
-title: README
----
-
-# {{ page.title }}
+# README
 
 This course is being developed in conjunction with colleagues at the Centers for Medicare and Medicaid Services. The goal of this course is to support State Officers in tracking project health on an on-going basis. We do this by supporting SOs in asking questions in four broad categories:
 
@@ -19,7 +15,7 @@ In this course, "bullshit" is used as a technical term of art; we embrace the fa
 
 # About This Course
 
-These materials are structured around a series of courses. Each course is made up of four lessons. Each lesson addresses one row of the [health rubric]({{ '/rubric/' | prepend: site.baseurl }}). 
+These materials are structured around a series of courses. Each course is made up of four lessons. Each lesson addresses one row of the health rubric. 
 
 ## Taking This Course
 
@@ -36,4 +32,4 @@ Learning is hard. It is to be respected and honored. If you have questions, comm
 
 ## License
 
-This material is made available under the CC0 license. That means that it is free of all licensing and copyright as a work of the US Government. See the [full license]({{ '/LICENSE/' | prepend: site.baseurl }}) for details.
+This material is made available under the CC0 license. That means that it is free of all licensing and copyright as a work of the US Government. See the full license (LICENSE.md) for details.
