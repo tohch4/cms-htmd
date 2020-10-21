@@ -122,6 +122,8 @@ Storymapping and product management is a whole set of subjects unto themselves. 
 
 ## Understanding a Map (30m, solo)
 
+**Timer**: {% include countdowntimer id="uam" minutes=30 %} 
+
 You've seen roadmaps as parts of projects before.
 
 Pull one. Go back to a recent roadmap from one of your projects, and look at it. Then, answer these questions for yourself in your notebook. These questions are less reflective and more descriptive in nature; they mostly question the *what* and *how* of the map.
@@ -159,6 +161,8 @@ These are fairly common roadmap questions.
 
 ## Reflecting on a Map (30m, solo)
 
+**Timer**: {% include countdowntimer id="roam" minutes=30 %} 
+
 These questions are of a different nature. The previous set of questions asked you to make some judgements... but, really, they're questions that a good roadmap should almost answer for you.
 
 Your job as a State Officer, M.D. is to probe deeper. If you have a healthy relationship with your state and their vendors, these questions will be easy. However, it might be that the vendor is concerned about holding on to their contract, but less worried about delivering excellence and value to the state. In that case, you're going to need to ask bigger, harder questions about the roadmap. 
@@ -177,10 +181,12 @@ These questions are all meant to help you get at this one dimension of the rubri
 
 Come together with your colleagues for a conversation.
 
-1. **Check in**. (5m) First, check in with each-other. How is everyone doing? Take a moment to share something positive from the week, either at work or at home.
-2. **Understand**. (20m) Next, take some time to  discuss points where you were confused or questioned your material. That is, did you find yourself questioning or wanting to challenge the authors at any point? Did you want to call "bullshit" on what they were saying based on your own personal experience? This would be a great place to probe ideas; help each-other unpack why you feel this way about the readings.
-3. **Reflecting**. (20m) You each had your own roadmaps you investigated and questioned; take a few minutes each to share the roadmaps you scrutinized. Focus on two things: areas where you thought the roadmap was excellent or clear, and areas where you were concerned. For each roadmap, as a group, offer suggestions for how you would like to see the state and/or vendor improve the roadmap in the next iteration. This could be in the form of questions that you want to ask, or it can be recommendations.
-4. **Questioning**. (10m) For the last few minutes, take some time to expand the questions that we asked about roadmaps. You have your own experiences as SOs, and those experiences should inform your inquiry. What questions (in addition to the ones asked as part of your solo work) do you think you should be asking of each new roadmap that you see? Make sure to share those questions back, so they might be incorporated into future versions of these learning materials!
+You can click on the timers below to help keep yourselves on track.
+
+1. {% include countdowntimer id="checkin" minutes=5 %} **Check in**. First, check in with each-other. How is everyone doing? Take a moment to share something positive from the week, either at work or at home.
+2. {% include countdowntimer id="understand" minutes=20 %} **Understand**. Next, take some time to  discuss points where you were confused or questioned your material. That is, did you find yourself questioning or wanting to challenge the authors at any point? Did you want to call "bullshit" on what they were saying based on your own personal experience? This would be a great place to probe ideas; help each-other unpack why you feel this way about the readings.
+3. {% include countdowntimer id="reflecting" minutes=20 %} **Reflecting**. You each had your own roadmaps you investigated and questioned; take a few minutes each to share the roadmaps you scrutinized. Focus on two things: areas where you thought the roadmap was excellent or clear, and areas where you were concerned. For each roadmap, as a group, offer suggestions for how you would like to see the state and/or vendor improve the roadmap in the next iteration. This could be in the form of questions that you want to ask, or it can be recommendations.
+4. {% include countdowntimer id="questioning" minutes=10 %} **Questioning**. For the last few minutes, take some time to expand the questions that we asked about roadmaps. You have your own experiences as SOs, and those experiences should inform your inquiry. What questions (in addition to the ones asked as part of your solo work) do you think you should be asking of each new roadmap that you see? Make sure to share those questions back, so they might be incorporated into future versions of these learning materials!
 
 ## Reflect Out (10m, solo)
 
