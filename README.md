@@ -7,11 +7,6 @@ This course is being developed in conjunction with colleagues at the Centers for
 3. **Process and Action**. What steps can I take to improve project outcomes?
 4. **Self and Community**. Am I confident in my work?
 
-## About the word "Bullshit"
-
-The word "bullshit" has a [long, rich history](https://www.etymonline.com/word/bull?ref=etymonline_crossreference#etymonline_v_18053). It's root, *bull*, comes potentially from the Old French (*bole*) or Icelandic (*bull*), generally meaning to deceive or trick, or in the Icelandic, "nonsense." In 1600's English, it might mean "a ludicrous blunder involving a contradiction in terms," with evidence of its use in the English language going back to the 14th century. 
-
-In this course, "bullshit" is used as a technical term of art; we embrace the fact that people around the world have been calling bullshit for a very, very long time.
 
 # About This Course
 
@@ -25,6 +20,12 @@ If you are taking this course, we recommend the following:
 2.  **Make time**. Each lesson requires 1-2 hours of reading, viewing, and reflection. Each lesson typically ends with one hour of conversation and reflection in community with your colleagues.
 3.  **Reflect and Revisit**. Learning is not just the conveyance of information. Each lesson will introduce you to new ideas that may take time to understand and integrate into your professional practice. Don't be afraid to revisit the material from time-to-time to refresh yourself when you have questions.
 4.  **Ask Questions**. Finally, remember you are learning in community with others. *Ask questions!* Talk with your colleagues about things you learn, questions you have, and (once you are beginning to apply these ideas) challenges that come up in your day-to-day work with states and vendors.
+
+## About the word "Bullshit"
+
+The word "bullshit" has a [long, rich history](https://www.etymonline.com/word/bull?ref=etymonline_crossreference#etymonline_v_18053). It's root, *bull*, comes potentially from the Old French (*bole*) or Icelandic (*bull*), generally meaning to deceive or trick, or in the Icelandic, "nonsense." In 1600's English, it might mean "a ludicrous blunder involving a contradiction in terms," with evidence of its use in the English language going back to the 14th century. 
+
+In this course, "bullshit" is used as a technical term of art; we embrace the fact that people around the world have been calling bullshit for a very, very long time.
 
 ## Thank You
 
