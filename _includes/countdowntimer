@@ -1,2 +1,2 @@
 {% assign id = include.id | append: include.minutes | append: "m" %}{% assign minutes = include.minutes %}
-(<span id="{{ id }}" onclick="countdownTimer({{ minutes }}, '{{ id }}')" style="color: #0645AD;">{{minutes}}m timer</span>)
+<span id="{{ id }}" onclick="countdownTimer({{ minutes }}, '{{ id }}')" style="color: #0645AD; background-color:#ddd; padding-left: 0.25em; padding-right: 0.25em;">{{minutes}}m timer</span>
