@@ -11,13 +11,13 @@ course: 1
 
 # {{ page.title }}
 
-*This lesson explores the highest priority dimension of the Outcomes and Orientation indicator of the health tracking rubric.*
+*This lesson explores the first row of the health tracking rubric -- the product roadmap. This is the top priority in the Outcomes Orientation primary indicator.*
 
 {% include rubric dimension="oo1.1" %}
 
 Roadmaps are a tricky thing. They are a space where development teams can lie to leadership, vendor leadership can lie to states, states can lie to SOs, and everything can look like it is perfectly on track.
 
-Roadmaps can also be a source of *radical transparency*, where something approaching the ground truth of the project can be ascertained. However, that assumes that the vendor and state are in agreement around what a roadmap can and should be.
+Roadmaps can also be a source of *radical transparency*, where something approaching the ground truth of the project can be ascertained. But that assumes that the vendor and state are in agreement around what a roadmap can and should be.
 
 There are many kinds of roadmaps, many ways they might be implemented, and therefore, as an SO, you need to have both 1) a **conceptual** understanding of what a roadmap is as well as 2) a **practical/applied** understanding, so you can either praise the work you see, or demand improvements that give you better visibility into the health of a project. 
 
@@ -33,7 +33,7 @@ As you engage in your reading and viewing, **remember to make note of questions 
 </p>
 
 <p>
-    <b>Work with what y'a got</b>. If a lesson suggests you look at material from states, and you don't have it... <i>you do not need to go asking for it</i>. Instead, use it as an opportunity to reach out to your learning cohort, and see if anyone else has materials you might look at. The spirit of using authentic materials is to keep the learning authentic. You'll have plenty of time later to ask questions of your states and their vendors; for now, this learning is for you and your colleagues.
+    <b>Work with what you got</b>. If a lesson suggests you look at material from states, and you don't have it... <i>you do not need to go asking for it</i>. Instead, use it as an opportunity to reach out to your learning cohort, and see if anyone else has materials you might look at. The spirit of using authentic materials is to keep the learning authentic. You'll have plenty of time later to ask questions of your states and their vendors; for now, this learning is for you and your colleagues.
 </p>
 
 <p>
@@ -79,7 +79,7 @@ There are *many* kinds of roadmap. When it comes to categorizing things, I somet
     </div>
 </div>
 
-When working with software in a government context, we are not really dealing with a *market*. That is, we're talking about things like *case management systems*, which are not (sadly?) rapidly evolving tools. We'll therefore assume that a government "marketplace" is *stable*.
+*Government as a stable market:* When working with software in a government context, we are not really dealing with a *market*. That is, we're talking about things like *case management systems*, which are not (sadly?) rapidly evolving tools. We'll therefore assume that a government "marketplace" is *stable*.
 
 This suggests that we might be looking at a *theme-based roadmap* or a *feature-based roadmap*.
 
@@ -92,7 +92,13 @@ You can either read through the deck, or if you like, you can watch Janna presen
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/100642934" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
-As Janna says, a good theme-based roadmap is going to communicate **time horizions** (current/near term/future), **objectives**, **scope**, and the **product areas** that any given work effort will cover. Where I think her deck tells a little lie is in the second half; that is, it suggests or implies that you can start with vision, get to goals, and somehow (from there) work your way down. 
+As Janna says, a good theme-based roadmap is going to communicate:
+* **time horizons** (current/near term/future)
+* **objectives**
+* **scope**
+* the **product areas** that any given work effort will cover.
+
+ Where I think her deck tells a little lie is in the second half; that is, it suggests or implies that you can start with vision, get to goals, and somehow (from there) work your way down. 
 
 Done right, the team **starts with user stories**, and works their way up to the product vision. David Hawks has a nice article ({% link hawks %}) that captures how a team should generally go about building up a story map.
 
@@ -108,7 +114,7 @@ But, a story map should be *built* the other way:
     Vision ⬅ Goals ⬅ Activities ⬅ User Stories
 </div>
 
-I highlight this because we're going to be talking about **how the states and vendors work with real users** later, and if they haven't been, it may already start to show up in the theme map. And, because this is all important context to understanding a roadmap when you're handed one.
+I highlight this because we're going to be talking about **how the states and vendors work with real users** later, and if they haven't been, it may already start to show up in the theme map. This is all important context to understanding a roadmap when you're handed one.
 
 ### Feature-Based Mapping
 
@@ -118,7 +124,12 @@ A feature-based map may look a bit more like either a goal-oriented product map 
 
 ### All The Details
 
-Storymapping and product management is a whole set of subjects unto themselves. If you want to read more, you might browse content on Atlassian's *Agile Coach* website; Bree Davies has a nice article on roadmaps ({% link davies %}) that provides some additional context and background. We don't want to bury you in material, so we'll offer the reference, and if you have time, give it a go. If not, go ahead and move on... all of this learning will require you to revisit sources from time-to-time as you encounter new situations and challenges, so fear not... there is more to be learned than can ever be learned...
+Storymapping and product management is a whole set of subjects unto themselves. If you want to read more, you might browse:
+
+* Atlassian's *Agile Coach* website
+* Bree Davies has a nice article on roadmaps ({% link davies %}) that provides some additional context and background. 
+
+We don't want to bury you in material, so if you have time, give it a go. If not, go ahead and move on. This learning will require you to revisit sources from time-to-time as you encounter new situations and challenges, so fear not... there is more to be learned than can ever be learned...
 
 ## Understanding a Map (30m, solo)
 
@@ -126,7 +137,7 @@ Storymapping and product management is a whole set of subjects unto themselves. 
 
 You've seen roadmaps as parts of projects before.
 
-Pull one. Go back to a recent roadmap from one of your projects, and look at it. Then, answer these questions for yourself in your notebook. These questions are less reflective and more descriptive in nature; they mostly question the *what* and *how* of the map.
+Pull one. Go back to a recent roadmap from one of your projects, and look at it. Then answer these questions for yourself in your notebook. These questions are less reflective and more descriptive in nature; they mostly question the *what* and *how* of the map.
 
 1. What is the vision for the product or software?
 2. What value does it offer?
