@@ -1,13 +1,13 @@
 ---
 layout: widepage
-title: Kickoff
-course: 1
-lesson: 1
-indicator: admin
+lesson: 0
 priority: high
+permalink: /course/1/kickoff/
+title: Kickoff
+indicator: admin
 visible: true
 date: October 8, 2020
-permalink: /course/1/kickoff/
+course: 1
 ---
 
 # {{ page.title }}
