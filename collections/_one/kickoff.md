@@ -1,7 +1,7 @@
 ---
 layout: widepage
 title: Kickoff
-course: 1
+course: 0
 lesson: 1
 indicator: admin
 priority: high
