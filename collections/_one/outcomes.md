@@ -1,6 +1,6 @@
 ---
 layout: widepage
-title: "Lesson 1: Reading the Map"
+title: Lesson 1 - Reading the Map
 lesson: 1
 indicator: outcomes
 priority: high
@@ -96,7 +96,7 @@ As Janna says, a good theme-based roadmap is going to communicate:
 * **time horizons** (current/near term/future)
 * **objectives**
 * **scope**
-* the **product areas** that any given work effort will cover.
+* **product areas** that any given work effort will cover.
 
  Where I think her deck tells a little lie is in the second half; that is, it suggests or implies that you can start with vision, get to goals, and somehow (from there) work your way down. 
 
