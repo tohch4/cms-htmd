@@ -1,12 +1,12 @@
 ---
 layout: widepage
-title: "Reading the Map"
-course: 1
-lesson: 2
+title: "Lesson 1: Reading the Map"
+lesson: 1
 indicator: outcomes
 priority: high
 visible: true
 date: October 15, 2020
+course: 1
 ---
 
 # {{ page.title }}
