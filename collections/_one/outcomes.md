@@ -11,7 +11,7 @@ course: 1
 
 # {{ page.title }}
 
-*This lesson is about roadmaps, as shown in the first row of the health tracking rubric. This is one of the top priorities in the outcomes-orientation primary indicator.*
+*This lesson is about roadmaps, as shown in the first row of the health tracking rubric. Roadmaps are one of the top priorities in the outcomes-orientation primary indicator.*
 
 {% include rubric dimension="oo1.1" %}
 
