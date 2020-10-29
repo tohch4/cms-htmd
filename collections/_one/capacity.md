@@ -5,7 +5,7 @@ course: 1
 lesson: 2
 indicator: capacity
 priority: high
-visible: false
+visible: true
 date: October 8, 2020
 ---
 # Lesson {{ page.lesson }} - {{ page.title }}
