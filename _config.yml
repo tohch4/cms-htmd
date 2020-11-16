@@ -81,12 +81,12 @@ ga:
 ##########################################################################################
 
 markdown: kramdown
-plugins:
+# plugins:
   # - jekyll-feed
   # - jekyll-paginate-v2
-  - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-seo-tag
+  # - jekyll-redirect-from
+  # - jekyll-sitemap
+  # - jekyll-seo-tag
 
 exclude:
   - package.json
