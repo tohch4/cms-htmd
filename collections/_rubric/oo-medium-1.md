@@ -41,7 +41,7 @@ Think of areas in your own state's projects that address current user's issues a
 
 When you think about it, a good experience for someone using a software tool is just another outcome or a goal that we want to track toward in development work. There's a whole field of practice, called user experience (UX), dedicated to ensuring that users have a smooth and enjoyable time using a software tool. 
 
-Even so, it can be easy to put a business outcome or goal in place of a user outcome.  Read through {% link sotgtbuxo %}, which discusses this in depth. 
+Even so, it can be easy to put a business outcome or goal in place of a user outcome.  Read through {% include link id="sotgtbuxo" %}, which discusses this in depth. 
 
 After you read this, go back to your notes on your projects. Have you seen any of them tracking business outcomes instead of user outcomes. Write down how they might improve.
 

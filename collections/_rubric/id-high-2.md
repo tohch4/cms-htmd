@@ -35,7 +35,7 @@ You may have heard terms like user-centered design, human-centered design, or UX
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UahMFILt304" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-{% link hcdin60 text="This short video" duration %} helps illustrate this process and shows that its a cycle&mdash;it doesn’t just mean asking users for feedback once and being done with it. Designing for humans means continually checking in as features come to life, testing with real people, gathering their feedback, and making changes to do it all again to get the most useful product for them at the end.
+{% include link id="hcdin60" text="This short video" attr="duration" %} helps illustrate this process and shows that its a cycle&mdash;it doesn’t just mean asking users for feedback once and being done with it. Designing for humans means continually checking in as features come to life, testing with real people, gathering their feedback, and making changes to do it all again to get the most useful product for them at the end.
 
 ## Reflect (30m, solo)
 

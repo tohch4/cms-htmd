@@ -35,7 +35,7 @@ After you identify the things you keep track of, make a second list. This second
 When it comes to software projects, there are two roles you're likely to see in management positions: the <b>tech lead</b> and <b>product manager</b>, or <b>PM</b>. An important part of understanding project health is going to involve understanding these people, how they work with their teams, and how well they do that. To get started, lets start with a short video or two to set some context:
 
 * {% include link id="ditlpm" attr="attribution duration" %} 
-* {% link robttl duration attribution %}
+* {% include link id="robttl" attr="attribution duration" %}
 
 Then, for some depth, we'll do some reading.
 

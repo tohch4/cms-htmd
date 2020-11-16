@@ -61,7 +61,7 @@ This lesson looks at some frameworks for assessing the health of a program, and 
 
 ## Ordering: What Do You Think? (15m, solo)
 
-Jama Software has {% link nbmtmstp text="nine metrics that they think relate to software team speed and productivity" %}. We offer these as food for thought, and are not suggesting that they are "the best" or "the only" ways to think about software team productivity.
+Jama Software has {% include link id="nbmtmstp" text="nine metrics that they think relate to software team speed and productivity" %}. We offer these as food for thought, and are not suggesting that they are "the best" or "the only" ways to think about software team productivity.
 
 Give the article a skim. Make sure to note questions you have about these metrics as you read; we have to admit, it's not a very... *verbose*... article. Then, come back, and re-order the metrics (by dragging-and-dropping) so that the metric that you think would tell you the **most** about a team's product quality is at the **top**, and the metric that you think would tell you the **least** is at the **bottom**.
 
@@ -79,7 +79,7 @@ Note your top two and bottom two in your notebook for later discussion, as well 
 
 ## Reading: What The Experts Say (30m, solo)
 
-Stackify's blog has {% link dlrbmfmsdp text="an interesting set of interviews" %} with experts in software development and the management of software projects. 
+Stackify's blog has {% include link id="dlrbmfmsdp" text="an interesting set of interviews" %} with experts in software development and the management of software projects. 
 
 Below are two random experts from the article. (<a href="#/" onclick="getTwoExperts()">Click to generate two new names!</a>) Jot these down.
 

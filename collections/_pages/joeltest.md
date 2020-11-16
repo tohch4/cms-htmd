@@ -10,7 +10,7 @@ Long ago, during the era of *blogs*, there was a program manager at Microsoft na
 
 Joel wrote a test. More than 20 years later, people still talk about the "Joel Test," and for good reason: it spoke to simple, fundamental things that good software teams do. So, even though his test did not go viral as a 10 second video made by cool kids on the internet, it did help shape how we talk about and practice developing software in teams.
 
-{% link thejoeltest text="The original blog is still up and on the internet." %}  Right at the top, it lays out twelve simple rules to determine if a software team is going about developing software in a sane way. When reading it, you can hear it as if Joel is asking the questions of another program manager about the software development practices of their team.
+{% include link id="thejoeltest" text="The original blog is still up and on the internet" %}.  Right at the top, it lays out twelve simple rules to determine if a software team is going about developing software in a sane way. When reading it, you can hear it as if Joel is asking the questions of another program manager about the software development practices of their team.
 
 1. Do you use source control?
 2. Can you make a build in one step?
@@ -64,7 +64,7 @@ Github, Bitbucket, and GitLab (all version control systems) all have bug databas
 
 If the vendor does not have a bug database that is up-to-date and actively used for tracking the work that needs to be done, that is a huge problem. It means they don't know what is broken, and what needs to be fixed. A good bug database is an easy way for a state or SO to check and see if work is "ticking over" at a good rate. If bugs lay around for months and none ever go away, that means either 1) nothing is happening, or 2) the vendor is not "gardening" their bugs. (Sometimes, the act of curating or keeping up on things like a bug tracking system is referred to as "gardening," because you shuffle around making sure weeds are pulled, and things are healthy, etc. It's a metaphor.) 
 
-If bugs are being entered, commented on, and fixed on a regular basis (perhaps even daily), that means the vendor is on top of their implementation. If the state is filing tickets when they find things that are wrong, and the vendor is fixing them, and pushing fixes live within days (how? **becuase #1, #2, and #3**), then you've got the core of a really resilient and healthy software project.
+If bugs are being entered, commented on, and fixed on a regular basis (perhaps even daily), that means the vendor is on top of their implementation. If the state is filing tickets when they find things that are wrong, and the vendor is fixing them, and pushing fixes live within days (how? **because #1, #2, and #3**), then you've got the core of a really resilient and healthy software project.
 
 ## 5. Do you fix bugs before writing new code?
 
@@ -81,7 +81,7 @@ If projects are being run in an agile manner, this question actually suggests a 
 1. Are the state and vendor in agreement on a high-level, or thematic, roadmap that looks out 6-months to a year?
 2. Is the state part of the planning process for each story epic (typically 6-10 weeks)?
 3. Is the state part of the planning process for each sprint (typically 1-3 weeks)?
-4. Is the vendor engaging in routine standups as part of their development practice (typicall daily)?
+4. Is the vendor engaging in routine standups as part of their development practice (typically daily)?
  
 If the state and vendor have a clear goal in mind (thematic roadmap), and the state is part of the ongoing development conversation (week-over-week and month-over-month), then all parties should be able to, at any point, tell you how things are progressing towards the end-goal, and how things have been going in the moment. That is, there's a macro view that all parties share, and there is a micro view that everyone is actively engaged in.
 
@@ -182,7 +182,7 @@ A vendor who cannot, or otherwise will not, develop comprehensive tests for thei
 
 ### 10c. Are demos carried out at the end of every sprint?
 
-The {% link deriskingguide text="18F Derisking Guide" %} has, in its [State Field Guide](https://derisking-guide.18f.gov/state-field-guide/) section, some words on [demos not memos](https://derisking-guide.18f.gov/state-field-guide/#require-demos-not-memos).
+The {% include link id="deriskingguide" text="18F Derisking Guide" %} has, in its [State Field Guide](https://derisking-guide.18f.gov/state-field-guide/) section, some words on [demos not memos](https://derisking-guide.18f.gov/state-field-guide/#require-demos-not-memos).
 
 If the state, and for that matter, the SO, can actually use the software at the end of every sprint to explore and try things, then that's a good final "check" that the vendor, in conjunction with the state, are developing high-quality software. 10a and 10b, as methods, will help the developers get to a point (along with #1, #2, #3, and #4) where they are confident that the software will work, and work well. 
 
@@ -200,13 +200,13 @@ This final bullet in Joel's test has not aged well. "Hallway usability testing" 
 
 Are *actual users* involved in the design and testing of the software? This does not mean some VP at the vendor says "I like this." It means that The People of the United States are involved in the ongoing testing of the software. If the software is intended to support SNAP enrollment, then people who need to enroll in SNAP should be *paid*, *by the vendor*, to be part of their user testing pool.
 
-There's a lot more to say about the modern design and testing of software. {% link methodsguide %} has an entire section on how we [validate software products](https://methods.18f.gov/validate/). If you only read about those methods ([card sorting](https://methods.18f.gov/card-sorting), [multivariate testing](https://methods.18f.gov/multivariate-testing), [usability testing](https://methods.18f.gov/usability-testing), and [visual preference testing](https://methods.18f.gov/visual-preference-testing)), you'll be a long way towards having an understanding of what it means for a state or vendor to take ongoing testing and validation of the software product seriously. 
+There's a lot more to say about the modern design and testing of software. {% include link id="methodsguide" %} has an entire section on how we [validate software products](https://methods.18f.gov/validate/). If you only read about those methods ([card sorting](https://methods.18f.gov/card-sorting), [multivariate testing](https://methods.18f.gov/multivariate-testing), [usability testing](https://methods.18f.gov/usability-testing), and [visual preference testing](https://methods.18f.gov/visual-preference-testing)), you'll be a long way towards having an understanding of what it means for a state or vendor to take ongoing testing and validation of the software product seriously. 
 
 Fundamentally, if the state and vendor have a 1) clearly articulated process to 2) involve real users 3) on an ongoing basis, then they're in a pretty good place. From there, it's a question of how well the feedback from those tests are rolled back into the development process. 
 
 # In Conclusion
 
-The {% link statefieldguide %} portion of the {% link deriskingguide %} recommends that you [ask technical questions](https://derisking-guide.18f.gov/state-field-guide/#ask-technical-questions-of-agencies). 
+The {% include link id="statefieldguide" %} portion of the {% include link id="deriskingguide" %} recommends that you [ask technical questions](https://derisking-guide.18f.gov/state-field-guide/#ask-technical-questions-of-agencies). 
 
 The Joel Test is a set of 12 questions that you can ask about a software project that starts to shed light on the daily practices of a vendor, and their relationship with a state. (Ultimately, the State Field Guide recommends that states develop their own expertise, in house, to oversee and ultimately deliver software.) You can use these questions as a starting point for digging into the technical aspects of software projects, and (in keeping with the [learning goals for this course]({{ "/rubric/" | prepend: site.baseurl }})), become more expert yourself in:
 
