@@ -88,7 +88,7 @@ This suggests that we might be looking at a *theme-based roadmap* or a *feature-
 
 ### Theme-Based Mapping
 
-The first half of Janna Bastow's slide deck on Agile Product Roadmaps ({% link capreu %}) is a really good read. 
+The first half of Janna Bastow's slide deck on Agile Product Roadmaps ({% include link id="capreu" %}) is a really good read. 
 
 You can either read through the deck, or if you like, you can watch Janna present it.
 
