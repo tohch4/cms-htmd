@@ -8,9 +8,10 @@ layout: widepage
 
 Each learning module will follow common patterns; the preamble will grow lighter as we get further in, because you grow accustomed to the pattern and work involved. 
 
-{% alert info Helpful Hints %}
+{% capture body %}
 The first few modules will involve more "context setting," helping you understand the <i>why</i> and <i>wherefore</i> of what we are doing. Think of these blocks as the instructor whispering suggestions to help keep you on track.
-{% endalert %}
+{% endcapture %}
+{% include alert level="info" heading="Helpful Hints" body=body %}
 
 * TOC
 {:toc}
@@ -21,9 +22,10 @@ Software projects are complex, creative projects that involve the orchestration 
 
 ## Reflection: Managing Projects (20m)
 
-{% alert info Writing to Think %}
+{% capture body %}
 Throughout the course, we will be reflecting on prior experiences, the things we read, and so on. A good way to slow down our overloaded brains is to <i>write</i>. Therefore, we will often take a moment to do some reflection as writing. For many reasons, we'd like to recommend you use a physical notebook. When you're writing, do your best to find a quiet place to work, free of distractions: silence the phone, turn off the social media... just unplug.
-{% endalert %}
+{% endcapture %}
+{% include alert level="info" heading="Writing to Think" body=body %}
 
 You've been managing projects in many contexts. Perhaps you tackle DIY projects, big or small, at home. Maybe you wrangle food for your household, doing shopping and food prep. At work, you're always wrangling some project or other, to say nothing of the work you do with states.
 

@@ -104,8 +104,7 @@ To close out this lesson, come together with your learning cohort.
 6. **Wrap**. {% include countdowntimer id="wrap" minutes=5 %} Take a moment, before leaving, to share what your favorite moments were from the learning activity. Go around the group, and offer one kudo to your roleplay partner---something they did that you thought was particularly wonderful, fun, or insightful. 
 
 
-{% alert no-icon Regarding Roleplays %}
-
+{% capture body %}
 <p>
     Roleplays are fun.
 </p>
@@ -121,8 +120,9 @@ To close out this lesson, come together with your learning cohort.
 <p>
    The point being: regardless of which role you are in, you're developing a powerful set of skills and habits of mind that are intended to improve your ability to imagine and detect bullshit (Learning Goal #2) as well as improve your confidence in digging into the work of your states and their vendors (Learning Goal #4). And at the risk of being redundant, let's be honest... <em>roleplays are fun</em>. <pre>:)</pre>  
 </p>
+{% endcapture %}
+{% include alert level="no-icon" heading="Regarding Roleplays" body=body %}
 
-{% endalert %}
 
 ## Reflection (15-30m, solo)
 

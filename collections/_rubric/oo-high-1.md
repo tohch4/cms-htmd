@@ -29,8 +29,7 @@ As you engage in your reading and viewing, **remember to make note of questions 
 * TOC
 {:toc}
 
-{% alert no-icon Two Quick Notes %}
-
+{% capture body %}
 <p>
     Before you get started, two quick, hot takes.
 </p>
@@ -42,8 +41,9 @@ As you engage in your reading and viewing, **remember to make note of questions 
 <p>
     <b>Leverage your colleagues</b>. You're doing this work in a cohort for many reasons. In part, it is to build community&mdash;you're engaged in learning together, and that's powerful. Many of these lessons will suggest "solo" work. You are, however, welcome to schedule time with a colleague to do that learning together if you like. <b>Yes, you can have "study buddies."</b> It might be easier to hold yourself (and each-other) accountable, it might make the learning more fun, and it will certainly help you get to know your colleagues better. So, don't be afraid to chat with each-other in whatever way makes sense as you're engaged in your learning.
 </p>
+{% endcapture %}
+{% include alert level="no-icon" heading="Two Quick Notes" body=body %}
 
-{% endalert %}
 
 ## Conceptual: What Kind, When? (1h, solo)
 
@@ -159,7 +159,7 @@ Pull one. Go back to a recent roadmap from one of your projects, and look at it.
 
 These are fairly common roadmap questions. 
 
-{% alert warning What if I don't have a map? %}
+{% capture body %}
 <p>
     It might be that you don't have a roadmap to hand. Perhaps your state doesn't have one in their reported materials. Perhaps you're new, and you don't have have material that has accumulated from past projects.
 </p>
@@ -171,7 +171,8 @@ These are fairly common roadmap questions.
 <p>
     So, drop a friend a note. See if anyone has a roadmap they'd be willing to share, or perhaps just schedule some time for coffee, and talk your way through these questions together. Either/both are absolutely excellent ways to engage in your learning.
 </p>
-{% endalert %}
+{% endcapture %}
+{% include alert level="warning" heading="What if I don't have a map?" body=body %}
 
 ## Reflecting on a Map (30m, solo)
 

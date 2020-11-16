@@ -121,21 +121,21 @@ Now, read what those two experts have to say in the Stackify article. After you'
 
 Record your thoughts in your notebook. We're going to come back together to report out on what you gathered from these experts, and also share out what you thought would actually be useful to you in your context. 
 
-{% alert no-icon Always Questioning %}
-
+{% capture body%}
 <p>
     As always, you should also be noting anything that you have questions about. There are no "dumb" questions, there are no questions that you should "already know the answer to." Sometimes we can see things in a new way, and it makes us wonder. Make sure you keep track of those questions so you can bring them to the group to discuss, and for everyone to learn from.
 </p>
-
-{% endalert %}
+{% endcapture %}
+{% include alert level="no-icon" heading="Always Questioning" body=body %}
 
 ## Viewing: Counterpoint on Measurement (45m, friend)
 
-{% alert no-icon Small Group Notice %}
+{% capture body %}
 <p>
     This lesson does not have a full-group reflection. If you are engaging in this material with a learning cohort, it is reasonable to use your cohort time to engage in this activity. Come together as a group, do some centering activity (say "hi," do some breathing, report out something positive from the past week), and then break into pairs for this work.
 </p>
-{% endalert %}
+{% endcapture %}
+{% include alert level="no-icon" heading="Small Group Notice" body=body %}
 
 You began by taking a very terse list of success metrics, and ordering them by importance. Then, you read the statements of two experts, and compared and contrasted what they had to say about software quality and measuring the progress of software teams. Now, we're going to critique one developer's (PM's?) view on measuring software quality.
 
