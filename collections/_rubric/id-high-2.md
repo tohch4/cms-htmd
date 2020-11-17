@@ -1,15 +1,9 @@
 ---
 layout: widepage
 title: Consider the User
-lesson: 4
-indicator: development
-priority: high
-visible: true
-date: October 30, 2020
-course: 2
+dimension: id1.2
 overview: |
     Testing is a sometimes misunderstood and, yet, critical aspect of a long-lived software project. This is especially true if you are trying to produce high-quality software in an iterative manner. This lesson will speak to the role that actual users play in the ongoing testing of a major software project.
-dimension: id1.2
 ---
 
 # {{ page.title }}

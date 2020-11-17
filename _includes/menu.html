@@ -12,7 +12,7 @@ The primary and secondary navigation are defined in _data/navigation.yaml
   <nav aria-label="Primary navigation" class="usa-nav">
     <div class="usa-nav__inner">
       <button class="usa-nav__close">
-        <img src="/assets/img/close.svg" role="img" alt="close">
+        <img src="{{ '/assets/uswds-2.9.0/img/close.svg' | prepend: site.baseurl }}" role="img" alt="close">
       </button>
       {% if site.data.navigation.primary_navigation %}
       <ul class="usa-nav__primary usa-accordion">

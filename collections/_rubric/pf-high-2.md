@@ -1,15 +1,9 @@
 ---
 layout: widepage
 title: "Assuring Quality"
-course: 2
-lesson: 3
-indicator: procurement
-priority: high
-visible: true
-date: October 28, 2020
+dimension: pf1.2
 overview: |
     Quality monitoring is an integral part of government contracting. For quality monitoring to be truly effective, it should speak to the behaviors that will lead to a successful delivery. This is a critical step towards acknowledging that software is not a product one buys, but an ongoing service that must be shaped and supported on an ongoing basis.
-dimension: pf1.2
 ---
 
 

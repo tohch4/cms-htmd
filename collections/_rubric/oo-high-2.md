@@ -1,13 +1,7 @@
 ---
 layout: widepage
 title: Measuring and Metrics
-lesson: 1
-indicator: outcomes
 dimension: oo1.2
-priority: high
-visible: true
-date: October 27, 2020
-course: 2
 overview: |
     Understanding outcomes involves measuring progress, which can be notoriously difficult with software development. Here, we explore what it means to assess progress, and whether a team can demonstrate progress against a set of reasonable metrics and baselines.
 metrics:

@@ -4,6 +4,8 @@ title: Rubric
 permalink: /rubric/
 ---
 
+The State Officer, M.D. project health rubric.
+
 <div style="width: 90%; margin: auto; margin-top: 2em; margin-bottom: 2em;">
 {% for section in site.data.rubric %}
     {% comment %}

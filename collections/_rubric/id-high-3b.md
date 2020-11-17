@@ -1,15 +1,9 @@
 ---
 layout: widepage
 title: Securing and Testing Systems
-lesson: 5
-indicator: development
-priority: high
-visible: true
-date: November 12, 2020
-course: 2
+dimension: id1.3
 overview: |
     NEED NEW OVERVIEW
-dimension: id1.3
 ---
 
 # {{ page.title }}

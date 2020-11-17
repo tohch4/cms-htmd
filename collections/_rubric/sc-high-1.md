@@ -1,15 +1,9 @@
 ---
 layout: widepage
 title: Tech and Product Management
-course: 1
-lesson: 2
-indicator: capacity
-priority: high
-visible: true
-date: October 8, 2020
+dimension: sc1.1
 overview: |
    What role do people play on the state and vendor teams, and how do those roles can (and cannot) contribute to project success?
-dimension: sc1.1
 ---
 # Lesson {{ page.lesson }} - {{ page.title }}
 
